@@ -1,5 +1,5 @@
 FROM node:20-buster-slim
 
-USER node
+#USER node
 
 WORKDIR /app
